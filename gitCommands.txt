@@ -1,1 +1,31 @@
 
+we first initialize using git command
+it onfigurates and the object and details and everything and this is going be to your local repository
+then link the repository we add origin
+//command git remote add origin
+and to fetch we use pull command
+
+to fetch from central repository to local repository
+status command to check the status of the repository
+we use git status
+
+git add add files to the index
+
+but it will be untracked if you have not commit it
+it will show red line that means changes have not been done yet
+
+git commit m-"message"
+to make the changes in local repository
+
+we can add multiple files
+git add -A 
+add all the file in one go
+and same goes for git commit-a-m
+
+git checkout temp
+for the branch
+
+git log to check the history
+
+git merge to add to master branch
+
